@@ -1,0 +1,133 @@
+/* CSS Document */
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    background-color: black;
+}
+
+header {
+    background-color: #2b2b2b;
+	color: green;
+}
+
+header h1 {
+    font-size: 2em;
+    font-weight: bold;
+	margin-left: 40%;
+}
+
+header h3 {
+    font-size: 2em;
+    font-weight: bold;
+    margin-left: 43%
+}
+
+.hnav {
+    padding: 5px 0;
+    width: 100%;
+    background-color: green;
+	color: black;
+}
+
+.hnav ul {
+	display: block;
+	text-align: center;
+}
+
+.hnav ul li {
+	display: inline-block;
+	list-style: none;
+	width: 15%;
+	margin-top: .8%;
+}
+
+.hnav a {
+	color: black;
+	text-decoration: none;
+	font-size: 1.5em;
+}
+
+.hnav ul li:hover {
+	background-color: black;
+	color: green;
+}
+
+main {
+	color: black;
+}
+
+#container {
+	padding: 2% 0;
+	margin: 0 auto;
+	width: 80%;
+	background-color: #2B2B2B;
+}
+
+#item1 {
+    background-image: url(../beagles/images/beaglesJuniors/images/newsletter_Beagle.jpg)
+}
+
+#item2 {
+    background-image: url(../project2/images/snow.jpg)
+}
+
+#item3 {
+    background-image: url(../project3/)
+}
+
+footer {
+    background-color: #2b2b2b;
+	color: green;
+}
+
+footer h1 {
+    font-size: 2em;
+    font-weight: bold;
+	margin-left: 40%;
+}
+
+footer h3 {
+    font-size: 2em;
+    font-weight: bold;
+    margin-left: 43%
+}
+
+.fnav {
+    padding: 5px 0;
+    width: 100%;
+    background-color: green;
+	color: black;
+}
+
+.fnav ul {
+	display: block;
+	text-align: center;
+}
+
+.fnav ul li {
+	display: inline-block;
+	list-style: none;
+	width: 15%;
+	margin-top: .8%;
+}
+
+.fnav a {
+	color: black;
+	text-decoration: none;
+	font-size: 1.5em;
+}
+
+.fnav ul li:hover {
+	background-color: black;
+	color: green;
+}
+
+footer h4, footer h5, footer h6 {
+	text-align: center;
+	color: black;
+}
